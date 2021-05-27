@@ -7,10 +7,10 @@
   * GNU Compiler Collection (gcc)
   
   ## installation
-    ```
+```
     $ LexicalAnalyze % gcc main.c -o LexicalAnalyzer
     $ LexicalAnalyze % ./LexicalAnalyzer 
-    ```
+```
   ## todo list
 
   |macro|description|status|
