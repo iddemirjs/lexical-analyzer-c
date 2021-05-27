@@ -1,0 +1,3 @@
+var:=var_1+18;(*additonn*)
+var_1++; (*increment*)
+fonsiyonIsmi();
